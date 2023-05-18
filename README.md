@@ -9,7 +9,7 @@
 
 [![Commit Activity](https://img.shields.io/github/commit-activity/w/JulianePires/ask-chatgpt)](https://github.com/JulianePires/ask-chatgpt/commits)
 [![Last Commit](https://img.shields.io/github/last-commit/JulianePires/ask-chatgpt)]()
-[![Repo Size](hhttps://img.shields.io/github/repo-size/JulianePires/ask-chatgpt)]()
+[![Repo Size](https://img.shields.io/github/repo-size/JulianePires/ask-chatgpt)]()
 [![License](https://img.shields.io/github/license/JulianePires/ask-chatgpt)](/LICENSE)
 
 </div>
