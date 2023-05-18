@@ -7,10 +7,10 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/JulianePires/ask-chatgpt/status)
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/JulianePires/ask-chatgpt/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/JulianePires/ask-chatgpt/pulls)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Commit Activity](https://img.shields.io/github/commit-activity/w/JulianePires/ask-chatgpt)](https://github.com/JulianePires/ask-chatgpt/commits)
+[![Last Commit](https://img.shields.io/github/last-commit/JulianePires/ask-chatgpt)]()
+[![Repo Size](hhttps://img.shields.io/github/repo-size/JulianePires/ask-chatgpt)]()
+[![License](https://img.shields.io/github/license/JulianePires/ask-chatgpt)](/LICENSE)
 
 </div>
 
